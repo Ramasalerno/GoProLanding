@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "VIAJES Y AVENTURA",
+        "url": "/actividades/viajes.jpeg"
+    },
+    {
+        "nombre": "CICLISMO DE MONTANA",
+        "url": "/actividades/montania.jpeg"
+    },
+    {
+        "nombre": "FAMILIA",
+        "url": "/actividades/familia.jpeg"
+    },
+    {
+        "nombre": "SURF ",
+        "url": "/actividades/surf.jpg"
+    },
+    {
+        "nombre": "BUCEO Y SNORKEL",
+        "url": "/actividades/buceo.jpeg"
+    },
+    {
+        "nombre": "EXTREMO",
+        "url": "/actividades/extremo.jpeg"
+    },
+    {
+        "nombre": "SNOWBOARD",
+        "url": "/actividades/snowboarding.jpeg"
+    },
+    {
+        "nombre": "BICI",
+        "url": "/actividades/bici.jpeg"
+    },
+    {
+        "nombre": "MOTOCICLISMO",
+        "url": "/actividades/moto.jpg"
+    }
+]
